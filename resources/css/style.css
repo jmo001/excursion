@@ -1,7 +1,42 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+
 h1.Main{
 font-family: Verdana;
 font-weight: normal;
 font-size: 50px;
 color: white;
 text-align: center;
+}
+
+p.Para1{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1.Second{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p.Para2{
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
+
+h1.Third{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p.Para3{
+  color: aquamarine;
+  font-size: 16px;
 }
