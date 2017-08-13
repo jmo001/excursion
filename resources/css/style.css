@@ -12,8 +12,8 @@ text-align: center;
 }
 
 p.Para1{
-  color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 h1.Second{
@@ -37,11 +37,15 @@ h1.Third{
 }
 
 p.Para3{
-  color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 h3{
 color: gray;
 text-align: right;
+}
+
+a{
+color: aquamarine;
 }
